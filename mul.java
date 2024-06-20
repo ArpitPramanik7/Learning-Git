@@ -4,7 +4,7 @@ public class mul{
         //Scanner sc =new Scanner(System.in);
         //int a=sc.nextInt();
         //int b=sc.nextInt();
-        int a=we;
+        int a=9;
         int b=9;
         int m=a*b;
         System.out.println("Into = "+m);
